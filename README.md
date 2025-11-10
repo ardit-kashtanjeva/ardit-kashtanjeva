@@ -1,16 +1,32 @@
-## Hi there 👋
+```bash
+> neofetch
 
-<!--
-**ardit-kashtanjeva/ardit-kashtanjeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+           .             ​ ardit@github 
+          .c.           ┌───────────────────────────────┐ 
+         .ccc.           ​  OS : Arch Linux (CachyOS)
+        .lllll.          ​  Shell: bash
+       .sscolll.         ​  WM : Hyprland
+      .dolllcccl.        ​  Editor : Jetbrains Rider
+     .lcc'   'ccc.       ​  Uptime : 18 years
+    .ccc'     'ccl.      ​  Motto : Reinvent the Wheel
+   .cccc'     'cscl.    └───────────────────────────────┘ 
+  .'`             `'. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> whoami
+Ardit Kashtanjeva
+Backend developer interested in operations and system design.
+Based in Switzerland, building things that (hopefully) don’t fall apart.
+
+> ls ~/skills
+C#    .NET    EFCore    Docker    Linux    Git
+
+
+> pacman -S frontend-skills
+[█-------------------] 5%
+warning: download speed low
+> bg
+
+> uptime
+18 years, 137 coffees
+```
