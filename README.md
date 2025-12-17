@@ -30,3 +30,8 @@ warning: download speed low
 > uptime
 18 years, 137 coffees
 ```
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ardit-kashtanjeva&color=blueviolet&style=flat-square)
+
+</div>
