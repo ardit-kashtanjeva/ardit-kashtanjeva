@@ -35,3 +35,4 @@ warning: download speed low
 ![Profile Views](https://komarev.com/ghpvc/?username=ardit-kashtanjeva&color=blueviolet&style=flat-square)
 
 </div>
+![](https://hit.yhype.me/github/profile?account_id=142214761)
