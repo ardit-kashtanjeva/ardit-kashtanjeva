@@ -7,7 +7,7 @@
         .lllll.          ​  Shell: bash
        .sscolll.         ​  WM : Hyprland
       .dolllcccl.        ​  Editor : Jetbrains Rider
-     .lcc'   'ccc.       ​  Uptime : 18 years
+     .lcc'   'ccc.       ​  Uptime : 19 years
     .ccc'     'ccl.      ​  Motto : Reinvent the Wheel
    .cccc'     'cscl.    └───────────────────────────────┘ 
   .'`             `'. 
